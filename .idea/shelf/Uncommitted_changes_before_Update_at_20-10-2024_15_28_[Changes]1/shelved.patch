@@ -1,0 +1,21 @@
+Index: src/Oct/ex_15102024/Lab005.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Oct/ex_15102024/Lab005.java b/src/Oct/ex_15102024/Lab005.java
+new file mode 100644
+--- /dev/null	(date 1729404098123)
++++ b/src/Oct/ex_15102024/Lab005.java	(date 1729404098123)
+@@ -0,0 +1,11 @@
++package Oct.ex_15102024;
++public class Lab005 {
++    public static void main(String[] args) {
++        int a=20;
++        int b=100;
++        int c=9;
++
++        int result_largest=(a>b && a>c)?a:(b>c?b:c);
++        System.out.println("largest of all 3 numbers is: " +result_largest);
++    }
++}
