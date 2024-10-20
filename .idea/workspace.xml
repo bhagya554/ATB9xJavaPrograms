@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="746be660-d24c-46af-91e3-f2822ea43e9b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_04102024/Task004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_02102024_MainMethod/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_02102024_MainMethod/Lab001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_03102024/Task002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_03102024/Task002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_03102024/Task003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_03102024/Task003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_16102024/ScannerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/ScannerClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,18 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "bhagya554"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;bhagya554&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/bhagya554/ATB9xJavaPrograms.git",
-    "accountId": "7e70d6de-e457-4084-a0d5-342047c12615"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/bhagya554/ATB9xJavaPrograms.git&quot;,
+    &quot;accountId&quot;: &quot;7e70d6de-e457-4084-a0d5-342047c12615&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -52,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Lab001.executor": "Run",
+    "Application.Lab_003.executor": "Run",
     "Application.ScannerClass.executor": "Run",
     "Application.Task002.executor": "Run",
     "Application.Task003.executor": "Run",
@@ -64,7 +59,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task004">
+  <component name="RunManager">
     <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oct.ex_02102024_MainMethod.Lab001" />
       <module name="ATB9xJavaPrograms" />
@@ -137,5 +132,16 @@
       <updated>1727830301043</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
