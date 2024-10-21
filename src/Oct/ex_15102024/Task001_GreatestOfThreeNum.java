@@ -1,5 +1,5 @@
 package Oct.ex_15102024;
-public class Lab005 {
+public class Task001_GreatestOfThreeNum {
     public static void main(String[] args) {
         int a=20;
         int b=100;
