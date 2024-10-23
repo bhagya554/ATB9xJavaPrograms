@@ -2,8 +2,11 @@ package Oct.ex_16102024;
 
 import java.util.Scanner;
 
-public class ScannerClass {
+public class Lab008_ScannerClass {
     public static void main(String[] args) {
+        /*
+        If age>18 -- go to Goa
+         */
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the age:");
         int age=sc.nextInt();
