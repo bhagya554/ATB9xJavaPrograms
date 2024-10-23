@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="746be660-d24c-46af-91e3-f2822ea43e9b" name="Changes" comment="22102024 l">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024/Lab001_Function_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024/Lab002_TypesOfFunc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024/Task001_Function_AddSubMultDiv.java" afterDir="false" />
+    <list default="true" id="746be660-d24c-46af-91e3-f2822ea43e9b" name="Changes" comment="23102024 l">
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024/Lab008_IfElese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024/Lab009_IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024/Lab010_EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024/Lab011_IfElseIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024/Task001_GradeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024/Task002_TriangleClassification.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,14 +58,21 @@
     "Application.Lab005_TernaryOperator.executor": "Run",
     "Application.Lab006_TernaryOperator.executor": "Run",
     "Application.Lab007_Ternary.executor": "Run",
+    "Application.Lab008_IfElese.executor": "Run",
+    "Application.Lab009_IfElse.executor": "Run",
     "Application.Lab009_UsingArgument.executor": "Run",
+    "Application.Lab010_EvenOdd.executor": "Run",
     "Application.Lab010_UsingArgument.executor": "Run",
+    "Application.Lab011_IfElseIfElse.executor": "Run",
     "Application.Lab_003.executor": "Run",
     "Application.ScannerClass.executor": "Run",
+    "Application.Task001_Function_AddSubMultDiv.executor": "Run",
+    "Application.Task001_GradeCalculator.executor": "Run",
     "Application.Task001_Task002_Table10_finalKeyword.executor": "Run",
     "Application.Task001_UserInput.executor": "Run",
     "Application.Task002.executor": "Run",
     "Application.Task002_Increment_Decrement.executor": "Run",
+    "Application.Task002_TriangleClassification.executor": "Run",
     "Application.Task002_UsingArguments.executor": "Run",
     "Application.Task003.executor": "Run",
     "Application.Task003_Increment_Decrement.executor": "Run",
@@ -215,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729642747732</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="23102024 l">
+      <option name="closed" value="true" />
+      <created>1729647670107</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729647670107</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,6 +266,7 @@
     <MESSAGE value="14 Oct 2024" />
     <MESSAGE value="22102024" />
     <MESSAGE value="22102024 l" />
-    <option name="LAST_COMMIT_MESSAGE" value="22102024 l" />
+    <MESSAGE value="23102024 l" />
+    <option name="LAST_COMMIT_MESSAGE" value="23102024 l" />
   </component>
 </project>
