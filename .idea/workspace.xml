@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="746be660-d24c-46af-91e3-f2822ea43e9b" name="Changes" comment="22102024 l">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024/Lab001_Function_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024/Lab002_TypesOfFunc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024/Task001_Function_AddSubMultDiv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="746be660-d24c-46af-91e3-f2822ea43e9b" name="Changes" comment="22102024 l" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,6 +214,11 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="dc90ab18-d33f-4d6c-b5fc-814734089eae" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="RECENT_FILTERS">
       <map>
         <entry key="Branch">
@@ -239,6 +239,23 @@
         <entry key="MAIN">
           <value>
             <State />
+          </value>
+        </entry>
+        <entry key="dc90ab18-d33f-4d6c-b5fc-814734089eae">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="range">
+                    <value>
+                      <list>
+                        <option value="51e3cf0cba390b1184da864a1bcb587a590824a0..a810f996977ffbfc2142e50fd3c42bbf1105a989" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
