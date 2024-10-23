@@ -18,6 +18,7 @@ public class Task001_UserInput {
         System.out.printf("Name is: %s\n",name);
         System.out.printf("Age is: %d\n",age);
         System.out.printf("Salary is: %f\n",salary);
+        sc.close();
 
     }
 }

@@ -48,41 +48,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Lab001.executor": "Run",
-    "Application.Lab002_TypesOfFunc.executor": "Run",
-    "Application.Lab005_TernaryOperator.executor": "Run",
-    "Application.Lab006_TernaryOperator.executor": "Run",
-    "Application.Lab007_Ternary.executor": "Run",
-    "Application.Lab009_UsingArgument.executor": "Run",
-    "Application.Lab010_UsingArgument.executor": "Run",
-    "Application.Lab_003.executor": "Run",
-    "Application.ScannerClass.executor": "Run",
-    "Application.Task001_Task002_Table10_finalKeyword.executor": "Run",
-    "Application.Task001_UserInput.executor": "Run",
-    "Application.Task002.executor": "Run",
-    "Application.Task002_Increment_Decrement.executor": "Run",
-    "Application.Task002_UsingArguments.executor": "Run",
-    "Application.Task003.executor": "Run",
-    "Application.Task003_Increment_Decrement.executor": "Run",
-    "Application.Task004.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Bhagya_Kudupudi/IdeaProjects/ATB9xJavaPrograms",
-    "onboarding.tips.debug.path": "C:/Users/Bhagya_Kudupudi/IdeaProjects/ATB9xLabExecercises/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab002_TypesOfFunc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab005_TernaryOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab006_TernaryOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab007_Ternary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab009_UsingArgument.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab010_UsingArgument.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task001_Task002_Table10_finalKeyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task001_UserInput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task002.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task002_Increment_Decrement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task002_UsingArguments.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task003_Increment_Decrement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task004.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Bhagya_Kudupudi/IdeaProjects/ATB9xJavaPrograms&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Bhagya_Kudupudi/IdeaProjects/ATB9xLabExecercises/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Oct.ex_16102024" />
       <recent name="Oct.ex_15102024" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Task002_UsingArguments">
     <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oct.ex_02102024_MainMethod.Lab001" />
       <module name="ATB9xJavaPrograms" />
