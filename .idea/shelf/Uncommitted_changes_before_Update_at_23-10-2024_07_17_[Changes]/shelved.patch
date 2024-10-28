@@ -1,0 +1,262 @@
+Index: src/Oct/ex_16102024/Task001_UserInput.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Oct.ex_16102024;\r\n\r\nimport java.util.Scanner;\r\n\r\npublic class Task001_UserInput {\r\n    public static void main(String[] args) {\r\n        /*\r\n        Task 1: Take a user input - Name, Age and Salary and print them in the end.\r\n         */\r\n        Scanner sc = new Scanner(System.in);\r\n        System.out.println(\"Enter name: \");\r\n        String name = sc.next();\r\n        System.out.println(\"Enter age: \");\r\n        int age = sc.nextInt();\r\n        System.out.println(\"Enter salary: \");\r\n        double salary = sc.nextDouble();\r\n\r\n        System.out.printf(\"Name is: %s\\n\",name);\r\n        System.out.printf(\"Age is: %d\\n\",age);\r\n        System.out.printf(\"Salary is: %f\\n\",salary);\r\n\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Oct/ex_16102024/Task001_UserInput.java b/src/Oct/ex_16102024/Task001_UserInput.java
+--- a/src/Oct/ex_16102024/Task001_UserInput.java	(revision 9448c72f56c40aa8356cd8f27fdb64a9f3818186)
++++ b/src/Oct/ex_16102024/Task001_UserInput.java	(date 1729487469925)
+@@ -18,6 +18,7 @@
+         System.out.printf("Name is: %s\n",name);
+         System.out.printf("Age is: %d\n",age);
+         System.out.printf("Salary is: %f\n",salary);
++        sc.close();
+ 
+     }
+ }
+Index: .idea/aws.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/aws.xml b/.idea/aws.xml
+new file mode 100644
+--- /dev/null	(date 1729648017547)
++++ b/.idea/aws.xml	(date 1729648017547)
+@@ -0,0 +1,14 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="accountSettings">
++    <option name="activeRegion" value="us-east-1" />
++    <option name="recentlyUsedRegions">
++      <list>
++        <option value="us-east-1" />
++      </list>
++    </option>
++  </component>
++  <component name="connectionManager">
++    <option name="activeConnectionId" value="sso;us-east-1;https://view.awsapps.com/start" />
++  </component>
++</project>
+\ No newline at end of file
+Index: src/Oct/ex_22102024/Task001_Reverse_Number.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Oct/ex_22102024/Task001_Reverse_Number.java b/src/Oct/ex_22102024/Task001_Reverse_Number.java
+new file mode 100644
+--- /dev/null	(date 1729564440774)
++++ b/src/Oct/ex_22102024/Task001_Reverse_Number.java	(date 1729564440774)
+@@ -0,0 +1,18 @@
++package Oct.ex_22102024;
++
++public class Task001_Reverse_Number {
++    /*
++    Reverse the number using for loop. (In - 12345, Out - 54321)
++
++     */
++
++    public static void main(String[] args) {
++        int num=12345;
++        for(int i=nu/10){
++
++        }
++
++
++
++    }
++}
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"746be660-d24c-46af-91e3-f2822ea43e9b\" name=\"Changes\" comment=\"14 Oct 2024\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20-10-2024_15_28__Changes_.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20-10-2024_15_28__Changes_1.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oct/ex_15102024/Lab005_TernaryOperator.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oct/ex_15102024/Lab006_TernaryOperator.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oct/ex_15102024/Lab007_Ternary.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oct/ex_15102024/Task002_Increment_Decrement.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oct/ex_15102024/Task003_Increment_Decrement.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oct/ex_16102024/Lab009_UsingArgument.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oct/ex_16102024/Lab010_UsingArgument.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oct/ex_16102024/Task001_UserInput.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Oct/ex_16102024/Task002_UsingArguments.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Oct/ex_15102024/Lab005.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Oct/ex_15102024/Task001_GreatestOfThreeNum.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Oct/ex_16102024/ScannerClass.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Oct/ex_16102024/Lab008_ScannerClass.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;bhagya554&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/bhagya554/ATB9xJavaPrograms.git\",\r\n    \"accountId\": \"7e70e9fe-e9bb-4e1e-94ac-4a8c10e7c133\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 3\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2mrMZLmlA8knCF4MFtQgyte7hY4\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.Lab001.executor\": \"Run\",\r\n    \"Application.Lab005_TernaryOperator.executor\": \"Run\",\r\n    \"Application.Lab006_TernaryOperator.executor\": \"Run\",\r\n    \"Application.Lab007_Ternary.executor\": \"Run\",\r\n    \"Application.Lab009_UsingArgument.executor\": \"Run\",\r\n    \"Application.Lab010_UsingArgument.executor\": \"Run\",\r\n    \"Application.Lab_003.executor\": \"Run\",\r\n    \"Application.ScannerClass.executor\": \"Run\",\r\n    \"Application.Task001_Task002_Table10_finalKeyword.executor\": \"Run\",\r\n    \"Application.Task001_UserInput.executor\": \"Run\",\r\n    \"Application.Task002.executor\": \"Run\",\r\n    \"Application.Task002_Increment_Decrement.executor\": \"Run\",\r\n    \"Application.Task002_UsingArguments.executor\": \"Run\",\r\n    \"Application.Task003.executor\": \"Run\",\r\n    \"Application.Task003_Increment_Decrement.executor\": \"Run\",\r\n    \"Application.Task004.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"deletionFromPopupRequiresConfirmation\": \"false\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/Bhagya_Kudupudi/IdeaProjects/ATB9xJavaPrograms\",\r\n    \"onboarding.tips.debug.path\": \"C:/Users/Bhagya_Kudupudi/IdeaProjects/ATB9xLabExecercises/src/Main.java\",\r\n    \"settings.editor.selected.configurable\": \"preferences.lookFeel\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\r\n      <recent name=\"Oct.ex_16102024\" />\r\n      <recent name=\"Oct.ex_15102024\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.Task002_UsingArguments\">\r\n    <configuration name=\"Lab001\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Oct.ex_02102024_MainMethod.Lab001\" />\r\n      <module name=\"ATB9xJavaPrograms\" />\r\n      <option name=\"PROGRAM_PARAMETERS\" value=\"Hello Bhagya\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Oct.ex_02102024_MainMethod.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Lab009_UsingArgument\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Oct.ex_16102024.Lab009_UsingArgument\" />\r\n      <module name=\"ATB9xJavaPrograms\" />\r\n      <option name=\"PROGRAM_PARAMETERS\" value=\"hello bhagya 25\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Oct.ex_16102024.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Lab009_UsingArgument\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Oct.ex_16102024.Lab009_UsingArgument\" />\r\n      <module name=\"ATB9xJavaPrograms\" />\r\n      <option name=\"PROGRAM_PARAMETERS\" value=\"13\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Oct.ex_16102024.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Task002\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Oct.ex_03102024.Task002\" />\r\n      <module name=\"ATB9xJavaPrograms\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Oct.ex_03102024.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Task002_UsingArguments\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Oct.ex_16102024.Task002_UsingArguments\" />\r\n      <module name=\"ATB9xJavaPrograms\" />\r\n      <option name=\"PROGRAM_PARAMETERS\" value=\"120 45\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Oct.ex_16102024.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Task003\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Oct.ex_03102024.Task003\" />\r\n      <module name=\"ATB9xJavaPrograms\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Oct.ex_03102024.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <list>\r\n      <item itemvalue=\"Application.Task002_UsingArguments\" />\r\n      <item itemvalue=\"Application.Lab001\" />\r\n      <item itemvalue=\"Application.Lab009_UsingArgument\" />\r\n      <item itemvalue=\"Application.Task002\" />\r\n      <item itemvalue=\"Application.Task003\" />\r\n    </list>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Task002_UsingArguments\" />\r\n        <item itemvalue=\"Application.Lab009_UsingArgument\" />\r\n        <item itemvalue=\"Application.Lab009_UsingArgument\" />\r\n        <item itemvalue=\"Application.Lab001\" />\r\n        <item itemvalue=\"Application.Task003\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"746be660-d24c-46af-91e3-f2822ea43e9b\" name=\"Changes\" comment=\"\" />\r\n      <created>1727830301043</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1727830301043</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"14 Oct 2024\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1729418382506</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1729418382506</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"14 Oct 2024\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"14 Oct 2024\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 9448c72f56c40aa8356cd8f27fdb64a9f3818186)
++++ b/.idea/workspace.xml	(date 1729648017547)
+@@ -4,21 +4,11 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="746be660-d24c-46af-91e3-f2822ea43e9b" name="Changes" comment="14 Oct 2024">
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20-10-2024_15_28__Changes_.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20-10-2024_15_28__Changes_1.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024/Lab005_TernaryOperator.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024/Lab006_TernaryOperator.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024/Lab007_Ternary.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024/Task002_Increment_Decrement.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024/Task003_Increment_Decrement.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/Lab009_UsingArgument.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/Lab010_UsingArgument.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/Task001_UserInput.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/Task002_UsingArguments.java" afterDir="false" />
++    <list default="true" id="746be660-d24c-46af-91e3-f2822ea43e9b" name="Changes" comment="16 Oct 2024">
++      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024/Task001_Reverse_Number.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_15102024/Lab005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_15102024/Task001_GreatestOfThreeNum.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_16102024/ScannerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/Lab008_ScannerClass.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/Oct/ex_16102024/Task001_UserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_16102024/Task001_UserInput.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -41,12 +31,12 @@
+     &quot;assignee&quot;: &quot;bhagya554&quot;
+   }
+ }</component>
+-  <component name="GithubPullRequestsUISettings"><![CDATA[{
+-  "selectedUrlAndAccountId": {
+-    "url": "https://github.com/bhagya554/ATB9xJavaPrograms.git",
+-    "accountId": "7e70e9fe-e9bb-4e1e-94ac-4a8c10e7c133"
+-  }
+-}]]></component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/bhagya554/ATB9xJavaPrograms.git&quot;,
++    &quot;accountId&quot;: &quot;7e70e9fe-e9bb-4e1e-94ac-4a8c10e7c133&quot;
++  }
++}</component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 3
+ }</component>
+@@ -58,40 +48,42 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Application.Lab001.executor": "Run",
+-    "Application.Lab005_TernaryOperator.executor": "Run",
+-    "Application.Lab006_TernaryOperator.executor": "Run",
+-    "Application.Lab007_Ternary.executor": "Run",
+-    "Application.Lab009_UsingArgument.executor": "Run",
+-    "Application.Lab010_UsingArgument.executor": "Run",
+-    "Application.Lab_003.executor": "Run",
+-    "Application.ScannerClass.executor": "Run",
+-    "Application.Task001_Task002_Table10_finalKeyword.executor": "Run",
+-    "Application.Task001_UserInput.executor": "Run",
+-    "Application.Task002.executor": "Run",
+-    "Application.Task002_Increment_Decrement.executor": "Run",
+-    "Application.Task002_UsingArguments.executor": "Run",
+-    "Application.Task003.executor": "Run",
+-    "Application.Task003_Increment_Decrement.executor": "Run",
+-    "Application.Task004.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "deletionFromPopupRequiresConfirmation": "false",
+-    "git-widget-placeholder": "master",
+-    "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "C:/Users/Bhagya_Kudupudi/IdeaProjects/ATB9xJavaPrograms",
+-    "onboarding.tips.debug.path": "C:/Users/Bhagya_Kudupudi/IdeaProjects/ATB9xLabExecercises/src/Main.java",
+-    "settings.editor.selected.configurable": "preferences.lookFeel"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Application.Lab001.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Lab005_TernaryOperator.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Lab006_TernaryOperator.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Lab007_Ternary.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Lab009_UsingArgument.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Lab010_UsingArgument.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Lab_003.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ScannerClass.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Task001_Reverse_Number.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Task001_Task002_Table10_finalKeyword.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Task001_UserInput.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Task002.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Task002_Increment_Decrement.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Task002_UsingArguments.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Task003.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Task003_Increment_Decrement.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Task004.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/Bhagya_Kudupudi/IdeaProjects/ATB9xJavaPrograms&quot;,
++    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Bhagya_Kudupudi/IdeaProjects/ATB9xLabExecercises/src/Main.java&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyClassDialog.RECENTS_KEY">
+       <recent name="Oct.ex_16102024" />
+       <recent name="Oct.ex_15102024" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="Application.Task002_UsingArguments">
++  <component name="RunManager" selected="Application.Task001_Reverse_Number">
+     <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="Oct.ex_02102024_MainMethod.Lab001" />
+       <module name="ATB9xJavaPrograms" />
+@@ -134,12 +126,12 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Task002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Oct.ex_03102024.Task002" />
++    <configuration name="Task001_Reverse_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Oct.ex_22102024.Task001_Reverse_Number" />
+       <module name="ATB9xJavaPrograms" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="Oct.ex_03102024.*" />
++          <option name="PATTERN" value="Oct.ex_22102024.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -175,19 +167,19 @@
+       </method>
+     </configuration>
+     <list>
+-      <item itemvalue="Application.Task002_UsingArguments" />
+       <item itemvalue="Application.Lab001" />
+       <item itemvalue="Application.Lab009_UsingArgument" />
+-      <item itemvalue="Application.Task002" />
++      <item itemvalue="Application.Task001_Reverse_Number" />
++      <item itemvalue="Application.Task002_UsingArguments" />
+       <item itemvalue="Application.Task003" />
+     </list>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Application.Task001_Reverse_Number" />
+         <item itemvalue="Application.Task002_UsingArguments" />
+         <item itemvalue="Application.Lab009_UsingArgument" />
+         <item itemvalue="Application.Lab009_UsingArgument" />
+         <item itemvalue="Application.Lab001" />
+-        <item itemvalue="Application.Task003" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -208,7 +200,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1729418382506</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="16 Oct 2024">
++      <option name="closed" value="true" />
++      <created>1729486819798</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1729486819798</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -224,6 +224,7 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="14 Oct 2024" />
+-    <option name="LAST_COMMIT_MESSAGE" value="14 Oct 2024" />
++    <MESSAGE value="16 Oct 2024" />
++    <option name="LAST_COMMIT_MESSAGE" value="16 Oct 2024" />
+   </component>
+ </project>
+\ No newline at end of file
