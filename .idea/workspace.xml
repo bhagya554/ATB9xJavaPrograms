@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="746be660-d24c-46af-91e3-f2822ea43e9b" name="Changes" comment="22102024 l">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024/Lab001_StringFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024/Task001_StringBuilder_StringBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024/Task001_StringCharAt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024/Task001_StringConcatenation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024/Task001_StringSplit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024/Task001_StringSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20-10-2024_15_28_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20-10-2024_15_28__Changes_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="746be660-d24c-46af-91e3-f2822ea43e9b" name="Changes" comment="Oct 17 2024">
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024/Task002_TriangleClassification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_17102024/Task001_GradeCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_17102024/Task001_GradeCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,43 +46,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Lab001.executor": "Run",
-    "Application.Lab001_StringFunctions.executor": "Run",
-    "Application.Lab002_TypesOfFunc.executor": "Run",
-    "Application.Lab005_TernaryOperator.executor": "Run",
-    "Application.Lab006_TernaryOperator.executor": "Run",
-    "Application.Lab007_Ternary.executor": "Run",
-    "Application.Lab009_UsingArgument.executor": "Run",
-    "Application.Lab010_UsingArgument.executor": "Run",
-    "Application.Lab_003.executor": "Run",
-    "Application.ScannerClass.executor": "Run",
-    "Application.Task001_StringBuilder_StringBuffer.executor": "Run",
-    "Application.Task001_StringCharAt.executor": "Run",
-    "Application.Task001_StringConcatenation.executor": "Run",
-    "Application.Task001_StringSplit.executor": "Run",
-    "Application.Task001_StringSubstring.executor": "Run",
-    "Application.Task001_Task002_Table10_finalKeyword.executor": "Run",
-    "Application.Task001_UserInput.executor": "Run",
-    "Application.Task002.executor": "Run",
-    "Application.Task002_Increment_Decrement.executor": "Run",
-    "Application.Task002_UsingArguments.executor": "Run",
-    "Application.Task003.executor": "Run",
-    "Application.Task003_Increment_Decrement.executor": "Run",
-    "Application.Task004.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Bhagya_Kudupudi/IdeaProjects/ATB9xJavaPrograms",
-    "onboarding.tips.debug.path": "C:/Users/Bhagya_Kudupudi/IdeaProjects/ATB9xLabExecercises/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab002_TypesOfFunc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab005_TernaryOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab006_TernaryOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab007_Ternary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab009_UsingArgument.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab010_UsingArgument.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task001_Task002_Table10_finalKeyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task001_UserInput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task002.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task002_Increment_Decrement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task002_UsingArguments.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task003_Increment_Decrement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task004.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Bhagya_Kudupudi/IdeaProjects/ATB9xJavaPrograms&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Bhagya_Kudupudi/IdeaProjects/ATB9xLabExecercises/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Oct.ex_28102024" />
       <recent name="Oct.ex_16102024" />
       <recent name="Oct.ex_15102024" />
     </key>
@@ -227,10 +213,31 @@
       <option name="project" value="LOCAL" />
       <updated>1729642747732</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Oct 17 2024">
+      <option name="closed" value="true" />
+      <created>1729670784328</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729670784328</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Oct 17 2024">
+      <option name="closed" value="true" />
+      <created>1729670854055</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729670854055</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="dc90ab18-d33f-4d6c-b5fc-814734089eae" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="RECENT_FILTERS">
       <map>
         <entry key="Branch">
@@ -253,6 +260,23 @@
             <State />
           </value>
         </entry>
+        <entry key="dc90ab18-d33f-4d6c-b5fc-814734089eae">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="range">
+                    <value>
+                      <list>
+                        <option value="51e3cf0cba390b1184da864a1bcb587a590824a0..a810f996977ffbfc2142e50fd3c42bbf1105a989" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
@@ -260,6 +284,7 @@
     <MESSAGE value="14 Oct 2024" />
     <MESSAGE value="22102024" />
     <MESSAGE value="22102024 l" />
-    <option name="LAST_COMMIT_MESSAGE" value="22102024 l" />
+    <MESSAGE value="Oct 17 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oct 17 2024" />
   </component>
 </project>
