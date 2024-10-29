@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="746be660-d24c-46af-91e3-f2822ea43e9b" name="Changes" comment="28Oct2024">
+    <list default="true" id="746be660-d24c-46af-91e3-f2822ea43e9b" name="Changes" comment="28Oct2024_more">
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024/Lab001_ArraysMinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024/Lab002_ArraysSortBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024/Task001_ValidateDuplicateArr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_28102024/Lab001_StringFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_28102024/Lab001_StringFunctions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +51,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Lab001.executor": "Run",
+    "Application.Lab001_ArraysMinMax.executor": "Run",
     "Application.Lab001_StringFunctions.executor": "Run",
+    "Application.Lab002_ArraysSortBinarySearch.executor": "Run",
     "Application.Lab002_TypesOfFunc.executor": "Run",
     "Application.Lab005_TernaryOperator.executor": "Run",
     "Application.Lab006_TernaryOperator.executor": "Run",
@@ -60,6 +64,7 @@
     "Application.ScannerClass.executor": "Run",
     "Application.Task001_Task002_Table10_finalKeyword.executor": "Run",
     "Application.Task001_UserInput.executor": "Run",
+    "Application.Task001_ValidateDuplicateArr.executor": "Run",
     "Application.Task002.executor": "Run",
     "Application.Task002_Increment_Decrement.executor": "Run",
     "Application.Task002_UsingArguments.executor": "Run",
@@ -238,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730090144993</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="28Oct2024_more">
+      <option name="closed" value="true" />
+      <created>1730090755128</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730090755128</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -295,6 +308,18 @@
     <MESSAGE value="22102024 l" />
     <MESSAGE value="Oct 17 2024" />
     <MESSAGE value="28Oct2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="28Oct2024" />
+    <MESSAGE value="28Oct2024_more" />
+    <option name="LAST_COMMIT_MESSAGE" value="28Oct2024_more" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Oct/ex_29102024/Task001_ValidateDuplicateArr.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
