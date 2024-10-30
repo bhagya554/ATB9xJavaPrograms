@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="746be660-d24c-46af-91e3-f2822ea43e9b" name="Changes" comment="28Oct2024_more">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024/Lab001_ArraysMinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024/Lab002_ArraysSortBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024/Task001_ValidateDuplicateArr.java" afterDir="false" />
+    <list default="true" id="746be660-d24c-46af-91e3-f2822ea43e9b" name="Changes" comment="29Oct2024">
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024/Lab001_2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024/Lab002_2DArrayStarProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024/Lab003_2DArrayLeftTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024/Lab003_2DArrayRightTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,10 +52,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Lab001.executor": "Run",
+    "Application.Lab001_2DArray.executor": "Run",
     "Application.Lab001_ArraysMinMax.executor": "Run",
     "Application.Lab001_StringFunctions.executor": "Run",
+    "Application.Lab002_2DArrayStartProb1.executor": "Run",
     "Application.Lab002_ArraysSortBinarySearch.executor": "Run",
     "Application.Lab002_TypesOfFunc.executor": "Run",
+    "Application.Lab003_2DArrayLeftTriangle.executor": "Run",
+    "Application.Lab003_2DArrayReverseTriangle.executor": "Run",
+    "Application.Lab003_2DArrayRightTriangle.executor": "Run",
     "Application.Lab005_TernaryOperator.executor": "Run",
     "Application.Lab006_TernaryOperator.executor": "Run",
     "Application.Lab007_Ternary.executor": "Run",
@@ -82,6 +88,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Oct.ex_30102024" />
       <recent name="Oct.ex_16102024" />
       <recent name="Oct.ex_15102024" />
     </key>
@@ -251,7 +258,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730090755128</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="28Oct2024_more">
+      <option name="closed" value="true" />
+      <created>1730172384206</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730172384206</updated>
+    </task>
+    <task id="LOCAL-00009" summary="29Oct2024">
+      <option name="closed" value="true" />
+      <created>1730172550363</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730172550363</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -309,17 +332,7 @@
     <MESSAGE value="Oct 17 2024" />
     <MESSAGE value="28Oct2024" />
     <MESSAGE value="28Oct2024_more" />
-    <option name="LAST_COMMIT_MESSAGE" value="28Oct2024_more" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Oct/ex_29102024/Task001_ValidateDuplicateArr.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="29Oct2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="29Oct2024" />
   </component>
 </project>
