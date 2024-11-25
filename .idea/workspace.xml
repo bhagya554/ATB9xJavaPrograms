@@ -4,11 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="746be660-d24c-46af-91e3-f2822ea43e9b" name="Changes" comment="29Oct2024">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024/Lab001_2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024/Lab002_2DArrayStarProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024/Lab003_2DArrayLeftTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024/Lab003_2DArrayRightTriangle.java" afterDir="false" />
+    <list default="true" id="746be660-d24c-46af-91e3-f2822ea43e9b" name="Changes" comment="30Oct2024">
+      <change afterPath="$PROJECT_DIR$/src/Nov/ProgrammingQuestions/PalidromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ProgrammingQuestions/Palindrome_Sol2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_ENUM/APIConstantsEndpoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_ENUM/Lab163_Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_ENUM/Lab164_Static_SIB_IIB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_ENUM/Lab165_Static_Real_SIB_IIB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_ENUM/Lab166_Static_WebAutomation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_ENUM/Lab167_ENUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_ENUM/Lab168_ENUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_ENUM/Lab169.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_ENUM/Lab170_ENUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions/Lab171_Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions/Lab172_Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions/Lab173_Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions/Lab174_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions/Lab176_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions/Lab177_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions/Lab178_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions/Lab179_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions2/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions2/Lab180_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions2/Lab183_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions2/Lab184_Exception_Finally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions2/Lab185_Exception_Finally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions2/Lab186_MultipleCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions2/Lab187_MultipleCatch_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions2/Lab188_MultiTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions2/Lab189_TryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions2/Lab190_InterviewTryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions2/Lab191_InterviewUnchecked_CheckedExc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions2/Lab192_Throws.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions2/Lab194_CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions2/Lab195_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions2/Lab196_WhenFinallyNotExecuted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions2/Task001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_19112024_Generics_WhyCollection/Lab197_Generics_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_19112024_Generics_WhyCollection/Lab199_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_19112024_Generics_WhyCollection/Lab200_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_20112024_List/Lab201_Lists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_22112024_Map/Lab217_Map_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_22112024_Map/Lab218_Map_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_06112024/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_06112024/ConstructorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_06112024/ConstructorDemo_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23-10-2024_07_17_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23-10-2024_07_17__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +61,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -51,6 +94,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.186.executor": "Run",
+    "Application.ConstructorDemo.executor": "Run",
+    "Application.ConstructorDemo_1.executor": "Run",
     "Application.Lab001.executor": "Run",
     "Application.Lab001_2DArray.executor": "Run",
     "Application.Lab001_ArraysMinMax.executor": "Run",
@@ -66,8 +112,40 @@
     "Application.Lab007_Ternary.executor": "Run",
     "Application.Lab009_UsingArgument.executor": "Run",
     "Application.Lab010_UsingArgument.executor": "Run",
+    "Application.Lab163_Static.executor": "Run",
+    "Application.Lab164_Static_SIB_IIB.executor": "Run",
+    "Application.Lab165_Static_Real_SIB_IIB.executor": "Run",
+    "Application.Lab167_ENUM.executor": "Run",
+    "Application.Lab168_ENUM.executor": "Run",
+    "Application.Lab169.executor": "Run",
+    "Application.Lab170_ENUM.executor": "Run",
+    "Application.Lab172_Wrapper.executor": "Run",
+    "Application.Lab174.executor": "Run",
+    "Application.Lab174_Exception.executor": "Run",
+    "Application.Lab177_Exception.executor": "Run",
+    "Application.Lab179_Exception.executor": "Run",
+    "Application.Lab180_Exception.executor": "Run",
+    "Application.Lab183_Exception.executor": "Run",
+    "Application.Lab184_Exception_Finally.executor": "Run",
+    "Application.Lab185_Exception_Finally.executor": "Run",
+    "Application.Lab186_MultipleCatch.executor": "Run",
+    "Application.Lab186_MultipleCatch_1.executor": "Run",
+    "Application.Lab187_MultipleCatch_1.executor": "Run",
+    "Application.Lab188_MultiTry.executor": "Run",
+    "Application.Lab189_TryCatch.executor": "Run",
+    "Application.Lab190_InterviewTryCatch.executor": "Run",
+    "Application.Lab191_InterviewUnchecked_CheckedExc.executor": "Run",
+    "Application.Lab194_CustomException.executor": "Run",
+    "Application.Lab195_String.executor": "Run",
+    "Application.Lab196_WhenFinallyNotExecuted.executor": "Run",
+    "Application.Lab197_Generics_Solution.executor": "Run",
+    "Application.Lab200_ArrayList.executor": "Run",
+    "Application.Lab217_Map_P1.executor": "Run",
     "Application.Lab_003.executor": "Run",
+    "Application.PalidromeString.executor": "Run",
+    "Application.Palindrome_Sol2.executor": "Run",
     "Application.ScannerClass.executor": "Run",
+    "Application.Task001.executor": "Run",
     "Application.Task001_Task002_Table10_finalKeyword.executor": "Run",
     "Application.Task001_UserInput.executor": "Run",
     "Application.Task001_ValidateDuplicateArr.executor": "Run",
@@ -81,26 +159,50 @@
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Bhagya_Kudupudi/IdeaProjects/ATB9xJavaPrograms",
+    "last_opened_file_path": "C:/Users/91733/IdeaProjects/Pramod9x",
     "onboarding.tips.debug.path": "C:/Users/Bhagya_Kudupudi/IdeaProjects/ATB9xLabExecercises/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\91733\IdeaProjects\ATB9xJavaPrograms\src\Nov\ex_18112024_Exceptions2" />
+      <recent name="C:\Users\91733\IdeaProjects\ATB9xJavaPrograms\src\Nov\ex_14112024_Static_ENUM" />
+      <recent name="C:\Users\91733\IdeaProjects\ATB9xJavaPrograms\src\Nov\ex_14112024_Static_ENUM_1" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Nov.ex_22112024_Map" />
+      <recent name="Nov.ex_18112024_Exceptions2" />
+      <recent name="Nov.ex_15112024_Wrapper_Exceptions" />
+      <recent name="Oct.ex_06112024" />
       <recent name="Oct.ex_30102024" />
-      <recent name="Oct.ex_16102024" />
-      <recent name="Oct.ex_15102024" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_02102024_MainMethod.Lab001" />
+  <component name="RunManager" selected="Application.Palindrome_Sol2">
+    <configuration name="186" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_18112024_Exceptions2.Lab186_MultipleCatch" />
       <module name="ATB9xJavaPrograms" />
-      <option name="PROGRAM_PARAMETERS" value="Hello Bhagya" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab174" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_15112024_Wrapper_Exceptions.Lab174_Exception" />
+      <module name="ATB9xJavaPrograms" />
+      <option name="PROGRAM_PARAMETERS" value="0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab196_WhenFinallyNotExecuted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_18112024_Exceptions2.Lab196_WhenFinallyNotExecuted" />
+      <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_02102024_MainMethod.*" />
+          <option name="PATTERN" value="Nov.ex_18112024_Exceptions2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,13 +210,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab009_UsingArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024.Lab009_UsingArgument" />
+    <configuration name="Lab200_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_19112024_Generics_WhyCollection.Lab200_ArrayList" />
       <module name="ATB9xJavaPrograms" />
-      <option name="PROGRAM_PARAMETERS" value="hello bhagya 25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_16102024.*" />
+          <option name="PATTERN" value="Nov.ex_19112024_Generics_WhyCollection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,13 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab009_UsingArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024.Lab009_UsingArgument" />
+    <configuration name="Lab217_Map_P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_22112024_Map.Lab217_Map_P1" />
       <module name="ATB9xJavaPrograms" />
-      <option name="PROGRAM_PARAMETERS" value="13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_16102024.*" />
+          <option name="PATTERN" value="Nov.ex_22112024_Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +236,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_03102024.Task002" />
+    <configuration name="PalidromeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ProgrammingQuestions.PalidromeString" />
       <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_03102024.*" />
+          <option name="PATTERN" value="Nov.ProgrammingQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,26 +249,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task002_UsingArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_16102024.Task002_UsingArguments" />
-      <module name="ATB9xJavaPrograms" />
-      <option name="PROGRAM_PARAMETERS" value="120 45" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oct.ex_16102024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_03102024.Task003" />
+    <configuration name="Palindrome_Sol2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ProgrammingQuestions.Palindrome_Sol2" />
       <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_03102024.*" />
+          <option name="PATTERN" value="Nov.ProgrammingQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,19 +263,21 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Task002_UsingArguments" />
-      <item itemvalue="Application.Lab001" />
-      <item itemvalue="Application.Lab009_UsingArgument" />
-      <item itemvalue="Application.Task002" />
-      <item itemvalue="Application.Task003" />
+      <item itemvalue="Application.Lab174" />
+      <item itemvalue="Application.186" />
+      <item itemvalue="Application.PalidromeString" />
+      <item itemvalue="Application.Palindrome_Sol2" />
+      <item itemvalue="Application.Lab200_ArrayList" />
+      <item itemvalue="Application.Lab217_Map_P1" />
+      <item itemvalue="Application.Lab196_WhenFinallyNotExecuted" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task002_UsingArguments" />
-        <item itemvalue="Application.Lab009_UsingArgument" />
-        <item itemvalue="Application.Lab009_UsingArgument" />
-        <item itemvalue="Application.Lab001" />
-        <item itemvalue="Application.Task003" />
+        <item itemvalue="Application.Palindrome_Sol2" />
+        <item itemvalue="Application.PalidromeString" />
+        <item itemvalue="Application.Lab217_Map_P1" />
+        <item itemvalue="Application.Lab200_ArrayList" />
+        <item itemvalue="Application.Lab196_WhenFinallyNotExecuted" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +362,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730172550363</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="30Oct2024">
+      <option name="closed" value="true" />
+      <created>1730254171624</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730254171624</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -333,6 +429,7 @@
     <MESSAGE value="28Oct2024" />
     <MESSAGE value="28Oct2024_more" />
     <MESSAGE value="29Oct2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="29Oct2024" />
+    <MESSAGE value="30Oct2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="30Oct2024" />
   </component>
 </project>
